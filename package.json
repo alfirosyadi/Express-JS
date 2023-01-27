@@ -19,5 +19,8 @@
   "homepage": "https://github.com/alfirosyadi/Belajar-Node-JS#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
